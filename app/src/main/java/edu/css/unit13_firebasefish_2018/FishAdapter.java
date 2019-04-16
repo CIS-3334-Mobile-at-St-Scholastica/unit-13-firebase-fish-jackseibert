@@ -22,7 +22,7 @@ public class FishAdapter extends ArrayAdapter<Fish> {
     private int layoutResource;                   // the layout to use
 
     /**
-     *   Basic constructo
+     *   Basic constructor
      * @param context - The activity calling this
      * @param resource  The layout to use to display
      * @param fishList  The list of fish to display
